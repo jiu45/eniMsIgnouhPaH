@@ -14,4 +14,5 @@ def print_char(i):
     print(ls[i], end="")
 
 print_char(0)
+print("shiina")
 print()
