@@ -1,0 +1,6 @@
+StopId,Code,Name,StopType,Zone,Ward,AddressNo,Street,SupportDisability,Status,Lng,Lat,Search,Routes,RouteId,RouteVarId
+426,Q5 001,Đại học Sư Phạm,Nhà chờ,Quận 5,,280,An Dương Vương,,Đang khai thác,106.68267,10.76103,DhSP 280 ADV,"06, 139, 38, 45, 56",6,2
+426,Q5 001,Đại học Sư Phạm,Nhà chờ,Quận 5,,280,An Dương Vương,,Đang khai thác,106.68267,10.76103,DhSP 280 ADV,"06, 139, 38, 45, 56",25,2
+426,Q5 001,Đại học Sư Phạm,Nhà chờ,Quận 5,,280,An Dương Vương,,Đang khai thác,106.68267,10.76103,DhSP 280 ADV,"06, 139, 38, 45, 56",59,117
+426,Q5 001,Đại học Sư Phạm,Nhà chờ,Quận 5,,280,An Dương Vương,,Đang khai thác,106.68267,10.76103,DhSP 280 ADV,"06, 139, 38, 45, 56",66,2
+426,Q5 001,Đại học Sư Phạm,Nhà chờ,Quận 5,,280,An Dương Vương,,Đang khai thác,106.68267,10.76103,DhSP 280 ADV,"06, 139, 38, 45, 56",76,152
